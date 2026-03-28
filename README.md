@@ -51,3 +51,6 @@ During development, I encountered "empty transcript" errors due to silent failur
 Resolved critical binary incompatibilities between `NumPy 2.0` and `CUDA 12` drivers by pinning the environment to stable LTS versions.  
 
 ---
+
+### 📸 Project Preview
+![Final Output](screenshots/final_answer.png)
