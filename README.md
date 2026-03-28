@@ -53,4 +53,4 @@ Resolved critical binary incompatibilities between `NumPy 2.0` and `CUDA 12` dri
 ---
 
 ### 📸 Project Preview
-![Final Output](screenshots/final_answer.png)
+![Final Output](final_answer.png)
